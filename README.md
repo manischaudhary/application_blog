@@ -1,7 +1,8 @@
 # application_blog
-# Developed a Full-Featured Blog Platform: Utilized React and TypeScript to create a robust blogging system.
-# Blog Post Management: Users can effortlessly create, edit, and publish their blog posts with a user-friendly interface.
-# Engagement Features: Implemented functionality to like posts, enhancing user interaction and engagement.
-# Commenting System: Integrated a dynamic commenting system, allowing users to leave and manage comments on blog posts.
-# Responsive Design: Ensured a seamless experience across devices with a fully responsive layout.
-# Type Safety and Scalability: Leveraged TypeScript to provide type safety and scalability for future enhancements.
+1.	Created a blog system using Spring Cloud
+2.	Spring Cloud gives you async feature running an application in a single thread
+3.	Included an API Gateway to forward traffic to multiple services
+4.	Added load balancer in a gateway to forward traffic
+5.	Included all services in service registry
+6.	Tried eureka as a service registry
+7.	This application was to try out possible feature of Spring Cloud
